@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-09-22 09:44 PM
+5.0.273.1028425 (1028425)
+2d5c0f8 (20 Mei 2026 04.16.19)
+-->
+<scene title="About Page" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="2015" fps="60" modifiedTime="1790088297006" amver="1028425" ffver="106" am="com.alightcreative.motion/5.0.273.1028425" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000287415" filename="8f2c50114b4ba71029c30d7244001a08.jpg" title="8f2c50114b4ba71029c30d7244001a08.jpg" type="image/jpeg" size="105576" orientation="0" infoUpdated="1790088292684" width="736" height="1308" />
+  <media uri="content://media/external/images/media/1000287409" filename="LS20260922091150.png" title="LS20260922091150.png" type="image/png" size="3457090" orientation="0" infoUpdated="1790088292684" width="2000" height="3622" />
+  <media uri="content://media/external/images/media/1000287603" filename="LS20260922200121.png" title="LS20260922200121.png" type="image/png" size="2722446" orientation="0" infoUpdated="1790088292684" width="1597" height="2790" />
+  <shape id="102422566" label="8f2c50114b4ba71029c30d7244001a08.jpg" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287415" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,577.284790,0.000000" />
+      <scale value="1.902778,1.902778" />
+      <rotation value="90.000000" />
+      <opacity value="0.095703" />
+    </transform>
+    <property name="size" type="vec2" value="303.500000,540.000000" />
+  </shape>
+  <shape id="102422587" label="LS20260922091150.png" hidden="true" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287409" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="225.216217,657.110962,0.000000" />
+      <opacity value="0.148438" />
+    </transform>
+    <property name="size" type="vec2" value="113.250671,676.909546" />
+  </shape>
+  <text id="102422555" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1188.172852,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Home</content>
+  </text>
+  <text id="102422554" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1372.835938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>About</content>
+  </text>
+  <text id="102422556" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1562.042969,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Skills</content>
+  </text>
+  <text id="102422557" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="159" align="left">
+    <transform>
+      <location value="1743.585938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Contact</content>
+  </text>
+  <text id="102422561" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="imported?name=Milky Matcha.ttf" wrapWidth="254" align="left">
+    <transform>
+      <location value="238.730347,71.835953,0.000000" />
+      <scale value="0.998148,0.998148" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>MaoMao</content>
+  </text>
+  <text id="102422585" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="445" align="left">
+    <transform>
+      <location value="944.000000,279.375000,0.000000" />
+      <scale value="0.898876,0.898876" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>About Me</content>
+  </text>
+  <text id="102422588" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="259" align="left">
+    <transform>
+      <location value="320.355347,363.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <content>Mao Mao</content>
+  </text>
+  <text id="102422586" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="216" align="center">
+    <transform>
+      <location value="944.000000,189.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>Get To Know</content>
+  </text>
+  <text id="102422589" label="Penjelasan" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="675.855347,558.125000,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Seorang ahli ternak lele Hias yang berfokus bukan pada pangan, tetapi estetika. Memiliki keahlian dalam merawat dan menghias lele selama +10 tahun.
+
+Lulusan Informatika Universitas Tangzu Wan Er yang memiliki ketertarikan di bidang peternakan, terkhususnya dalam bidang hias dan estetika.</content>
+  </text>
+  <text id="102422591" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="10.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="531" align="left">
+    <transform>
+      <location value="666.874878,801.741516,0.000000" />
+      <scale value="1.536502,1.536502" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <content>" We walk the talk, not only talk the talk. "</content>
+  </text>
+  <shape id="102422592" label="Persegi Panjang Bulat 1" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="1532.672852,610.500000,0.000000" />
+      <scale value="2.150000,2.150000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422597" label="LS20260922200121.png" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287603" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1541.750000,519.000000,0.000000" />
+      <scale value="0.565741,0.565741" />
+    </transform>
+    <property name="size" type="vec2" value="309.000000,540.000000" />
+  </shape>
+</scene>

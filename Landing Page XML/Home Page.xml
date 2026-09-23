@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-09-22 09:44 PM
+5.0.273.1028425 (1028425)
+2d5c0f8 (20 Mei 2026 04.16.19)
+-->
+<scene title="Home Page" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="2016" fps="60" modifiedTime="1790088270931" amver="1028425" ffver="106" am="com.alightcreative.motion/5.0.273.1028425" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000287415" filename="8f2c50114b4ba71029c30d7244001a08.jpg" title="8f2c50114b4ba71029c30d7244001a08.jpg" type="image/jpeg" size="105576" orientation="0" infoUpdated="1790088262613" width="736" height="1308" />
+  <media uri="content://media/external/images/media/1000287409" filename="LS20260922091150.png" title="LS20260922091150.png" type="image/png" size="3457090" orientation="0" infoUpdated="1790088262613" width="2000" height="3622" />
+  <media uri="content://media/external/images/media/1000287413" filename="20260922_091725.png" title="20260922_091725.png" type="image/png" size="3561473" orientation="0" infoUpdated="1790088262613" width="3264" height="3264" />
+  <media uri="content://media/external/images/media/1000287444" filename="1000287441-removebg-preview.png" title="1000287441-removebg-preview.png" type="image/png" size="41566" orientation="0" infoUpdated="1790088262613" width="590" height="389" />
+  <shape id="102422566" label="8f2c50114b4ba71029c30d7244001a08.jpg" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287415" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,577.284790,0.000000" />
+      <scale value="1.902778,1.902778" />
+      <rotation value="90.000000" />
+      <opacity value="0.095703" />
+    </transform>
+    <property name="size" type="vec2" value="303.500000,540.000000" />
+  </shape>
+  <text id="102422555" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1188.172852,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Home</content>
+  </text>
+  <text id="102422554" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1372.835938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>About</content>
+  </text>
+  <text id="102422556" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1562.042969,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Skills</content>
+  </text>
+  <text id="102422557" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="159" align="left">
+    <transform>
+      <location value="1743.585938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Contact</content>
+  </text>
+  <shape id="102422558" label="LS20260922091150.png" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287409" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="225.216217,657.110962,0.000000" />
+      <opacity value="0.148438" />
+    </transform>
+    <property name="size" type="vec2" value="113.250671,676.909546" />
+  </shape>
+  <shape id="102422560" label="Bentuk 1" startTime="0" endTime="2016" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="1272.085938,577.284790,0.000000" />
+      <scale value="1.451852,1.451852" />
+      <opacity value="0.701172" />
+    </transform>
+    <fillColor value="#ff9f4368" />
+    <shadow direction="outside">
+      <color value="#ff226565" />
+      <offset value="17.000000,8.000000" />
+    </shadow>
+    <path>
+      <contour d="M 23.224716 116.82826L 1.6203291 270.0L -23.224716 116.82826L 23.224716 116.82826Z" />
+      <contour exclude="true" d="M -99.032394 66.1877L -66.1877 99.03246L -189.77309 192.06451L -99.032394 66.1877Z" />
+      <contour exclude="true" d="M 99.032394 66.1877L 192.06458 189.77313L 66.1877 99.03246L 99.032394 66.1877Z" />
+      <contour exclude="true" d="M -1.6203291 -88.41342C 47.29995 -88.41342, 86.957664 -48.755714, 86.957664 0.16456467C 86.957664 49.084843, 47.29995 88.74255, -1.6203291 88.74255C -50.540607 88.74255, -90.19832 49.084843, -90.19832 0.16456467C -90.19832 -48.755714, -50.540607 -88.41342, -1.6203291 -88.41342Z" />
+      <contour exclude="true" d="M 116.82826 -23.224716L 270.0 -1.6203291L 116.82826 23.224716L 116.82826 -23.224716Z" />
+      <contour exclude="true" d="M -116.82826 -23.224716L -116.82826 23.224716L -270.0 1.6203291L -116.82826 -23.224716Z" />
+      <contour exclude="true" d="M -192.06458 -189.77307L -66.1877 -99.032394L -99.032394 -66.1877L -192.06458 -189.77307Z" />
+      <contour exclude="true" d="M 189.77307 -192.06458L 99.032394 -66.1877L 66.1877 -99.032394L 189.77307 -192.06458Z" />
+      <contour exclude="true" d="M -1.6203291 -270.0L 23.224716 -116.82826L -23.224716 -116.82826L -1.6203291 -270.0Z" />
+    </path>
+  </shape>
+  <shape id="102422559" label="20260922_091725.png" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287413" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1460.511230,656.610962,0.000000" />
+    </transform>
+    <shadow direction="outside">
+      <opacity value="0.700000" />
+      <offset value="15.000000,13.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="439.451111,439.451111" />
+  </shape>
+  <text id="102422561" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="imported?name=Milky Matcha.ttf" wrapWidth="254" align="left">
+    <transform>
+      <location value="238.730347,71.835953,0.000000" />
+      <scale value="0.998148,0.998148" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>MaoMao</content>
+  </text>
+  <text id="102422575" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="10.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="259" align="left">
+    <transform>
+      <location value="359.226532,318.625000,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Hello, I'm</content>
+  </text>
+  <text id="102422576" label="Hello, I'm Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="259" align="left">
+    <transform>
+      <location value="358.105347,363.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <content>Mao Mao</content>
+  </text>
+  <text id="102422577" label="Hello, I'm Copy 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="625" align="left">
+    <transform>
+      <location value="542.226563,485.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Ahli Ternak</content>
+  </text>
+  <text id="102422578" label="Hello, I'm Copy 3" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="468" align="left">
+    <transform>
+      <location value="462.605347,611.736084,0.000000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <content>Lele Hias</content>
+  </text>
+  <shape id="102422579" label="Persegi panjang 1" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform lockAspectRatio="false">
+      <location value="337.584686,738.744690,0.000000" />
+      <scale value="0.396583,0.932533" />
+    </transform>
+    <path-stroke direction="centered" enabled="false" join="round" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <shadow direction="outside">
+      <color value="#ff7dc0aa" />
+      <size value="6.000000" />
+      <offset value="9.000000,9.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="247.111023,40.222290" />
+  </shape>
+  <shape id="102422580" label="Persegi panjang 1 Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform lockAspectRatio="false">
+      <location value="625.334595,738.744690,0.000000" />
+      <scale value="0.691996,0.932533" />
+    </transform>
+    <fillColor value="#ff1ed91e" />
+    <path-stroke direction="centered" enabled="false" join="round" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <shadow direction="outside">
+      <color value="#ff7dc0aa" />
+      <size value="6.000000" />
+      <offset value="9.000000,9.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="247.111023,40.222290" />
+  </shape>
+  <text id="102422581" label="Hello, I'm Copy 4" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=500" wrapWidth="259" align="left">
+    <transform>
+      <location value="615.601563,737.465881,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Download CV</content>
+  </text>
+  <shape id="102422582" label="Bentuk 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="745.992065,738.744690,0.000000" />
+      <scale value="0.052138,0.052138" />
+    </transform>
+    <shadow direction="outside" />
+    <path d="M -469.90952 -118.34221L -280.14587 -8.206709L 227.11949 -170.25926L -239.8988 30.161196L -173.74689 270.0L -65.384575 142.61794L -182.18698 57.319736L 42.542927 174.48997L 469.90945 -270.0L -469.90952 -118.34221Z" />
+  </shape>
+  <shape id="102422584" label="1000287441-removebg-preview.png" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287444" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="337.287384,738.744690,0.000000" />
+      <scale value="0.746396,0.746396" />
+    </transform>
+    <property name="size" type="vec2" value="123.259003,81.269608" />
+  </shape>
+</scene>

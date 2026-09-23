@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-09-22 09:45 PM
+5.0.273.1028425 (1028425)
+2d5c0f8 (20 Mei 2026 04.16.19)
+-->
+<scene title="Contact Page" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="2015" fps="60" modifiedTime="1790088327839" amver="1028425" ffver="106" am="com.alightcreative.motion/5.0.273.1028425" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000287415" filename="8f2c50114b4ba71029c30d7244001a08.jpg" title="8f2c50114b4ba71029c30d7244001a08.jpg" type="image/jpeg" size="105576" orientation="0" infoUpdated="1790088322704" width="736" height="1308" />
+  <media uri="content://media/external/images/media/1000287664" filename="LS20260922212129.png" title="LS20260922212129.png" type="image/png" size="4110526" orientation="0" infoUpdated="1790088322704" width="2677" height="3187" />
+  <shape id="102422566" label="8f2c50114b4ba71029c30d7244001a08.jpg" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287415" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,577.284790,0.000000" />
+      <scale value="1.902778,1.902778" />
+      <rotation value="90.000000" />
+      <opacity value="0.095703" />
+    </transform>
+    <property name="size" type="vec2" value="303.500000,540.000000" />
+  </shape>
+  <text id="102422555" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1188.172852,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Home</content>
+  </text>
+  <text id="102422554" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1372.835938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>About</content>
+  </text>
+  <text id="102422556" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1562.042969,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Skills</content>
+  </text>
+  <text id="102422557" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="159" align="left">
+    <transform>
+      <location value="1743.585938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Contact</content>
+  </text>
+  <text id="102422561" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="imported?name=Milky Matcha.ttf" wrapWidth="254" align="left">
+    <transform>
+      <location value="238.730347,71.835953,0.000000" />
+      <scale value="0.998148,0.998148" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>MaoMao</content>
+  </text>
+  <text id="102422585" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="568" align="center">
+    <transform>
+      <location value="944.000000,279.375000,0.000000" />
+      <scale value="0.898876,0.898876" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Contact Me</content>
+  </text>
+  <text id="102422588" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="428" align="left">
+    <transform>
+      <location value="404.855347,363.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <content>Let's Discussion!</content>
+  </text>
+  <text id="102422586" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="216" align="center">
+    <transform>
+      <location value="944.000000,189.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>Get in Touch</content>
+  </text>
+  <text id="102422589" label="Penjelasan" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="871" align="left">
+    <transform>
+      <location value="626.355347,469.750000,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Saya selalu terbuka untuk diskusi terkait lele hias, ide kreatif usaha, atau yang lainnya. Saya merasa senang berdiskusi dengan Anda!</content>
+  </text>
+  <shape id="102422590" label="Bentuk 1" hidden="true" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="215.855347,773.053711,0.000000" />
+      <scale value="0.053571,0.053571" />
+    </transform>
+    <fillColor value="#ff328477" />
+    <shadow direction="outside">
+      <size value="3.000000" />
+    </shadow>
+    <path>
+      <contour d="M -79.765724 -16.204535L 0.0 34.033615L 79.83386 -16.249887L 410.67227 262.04068L 410.67227 270.0L -410.67227 270.0L -410.67227 262.14746L -79.765724 -16.204535Z" />
+      <contour exclude="true" d="M -410.67227 -224.62184L -101.4292 -29.84976L -410.67227 233.69748L -410.67227 -224.62184Z" />
+      <contour exclude="true" d="M 410.67227 -224.62184L 410.67227 233.59312L 101.49733 -29.895115L 410.67227 -224.62184Z" />
+      <contour exclude="true" d="M -410.67227 -270.0L 410.67227 -270.0L 410.67227 -256.38657L 0.0 -2.2689075L -410.67227 -256.38657L -410.67227 -270.0Z" />
+    </path>
+  </shape>
+  <shape id="102422592" label="Persegi Panjang Bulat 1" hidden="true" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="1532.672852,610.500000,0.000000" />
+      <scale value="2.150000,2.150000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422610" label="Persegi Panjang Bulat 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform lockAspectRatio="false">
+      <location value="634.355347,616.630859,0.000000" />
+      <scale value="1.320814,1.015368" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="335.777740,51.777832" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422613" label="Persegi Panjang Bulat 3" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="260.781738,616.630859,0.000000" />
+      <scale value="0.325000,0.325000" />
+    </transform>
+    <fillColor value="#ff318f87" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422617" label="Bentuk 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="260.781738,616.630859,0.000000" />
+      <scale value="0.057223,0.057223" />
+    </transform>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.500000" />
+    </path-stroke>
+    <path>
+      <contour d="M -79.765724 -16.204535L 0.0 34.033615L 79.83386 -16.249887L 410.67227 262.04068L 410.67227 270.0L -410.67227 270.0L -410.67227 262.14746L -79.765724 -16.204535Z" />
+      <contour exclude="true" d="M -410.67227 -224.62184L -101.4292 -29.84976L -410.67227 233.69748L -410.67227 -224.62184Z" />
+      <contour exclude="true" d="M 410.67227 -224.62184L 410.67227 233.59312L 101.49733 -29.895115L 410.67227 -224.62184Z" />
+      <contour exclude="true" d="M -410.67227 -270.0L 410.67227 -270.0L 410.67227 -256.38657L 0.0 -2.2689075L -410.67227 -256.38657L -410.67227 -270.0Z" />
+    </path>
+  </shape>
+  <text id="102422591" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="11.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="812.417786,627.130859,0.000000" />
+    </transform>
+    <content>maomao@gmail.com</content>
+  </text>
+  <text id="102422616" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="8.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="813.417847,594.255859,0.000000" />
+      <scale value="1.002062,1.002062" />
+    </transform>
+    <fillColor value="#ff3db2b2" />
+    <content>Email</content>
+  </text>
+  <shape id="102422611" label="Persegi Panjang Bulat 2 Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform lockAspectRatio="false">
+      <location value="634.355347,745.130859,0.000000" />
+      <scale value="1.320814,1.015368" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="335.777740,51.777832" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422614" label="Persegi Panjang Bulat 3 Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="260.781738,745.130859,0.000000" />
+      <scale value="0.325000,0.325000" />
+    </transform>
+    <fillColor value="#ff318f87" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422618" label="Bentuk 3" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="261.281769,745.130859,0.000000" />
+      <scale value="0.058522,0.058522" />
+    </transform>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.500000" />
+    </path-stroke>
+    <path d="M -469.90952 -118.34221L -280.14587 -8.206709L 227.11949 -170.25926L -239.8988 30.161196L -173.74689 270.0L -65.384575 142.61794L -182.18698 57.319736L 42.542927 174.48997L 469.90945 -270.0L -469.90952 -118.34221Z" />
+  </shape>
+  <text id="102422620" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="11.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="812.417786,759.079407,0.000000" />
+    </transform>
+    <content>Mao Mao</content>
+  </text>
+  <text id="102422619" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="8.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="813.417847,720.545410,0.000000" />
+      <scale value="1.002062,1.002062" />
+    </transform>
+    <fillColor value="#ff3db2b2" />
+    <content>LinkedIn</content>
+  </text>
+  <shape id="102422612" label="Persegi Panjang Bulat 2 Copy 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform lockAspectRatio="false">
+      <location value="634.355347,878.255859,0.000000" />
+      <scale value="1.320814,1.015368" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="335.777740,51.777832" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422615" label="Persegi Panjang Bulat 3 Copy 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="260.781738,878.255859,0.000000" />
+      <scale value="0.325000,0.325000" />
+    </transform>
+    <fillColor value="#ff318f87" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422621" label="Bentuk 4" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="260.781738,878.255859,0.000000" />
+      <scale value="0.083333,0.083333" />
+    </transform>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.500000" />
+    </path-stroke>
+    <path d="M 87.60979 94.67082C 38.703228 144.00974, 9.499967 202.4528, 0.0 270.0C -9.499967 202.4528, -38.703228 144.00974, -87.60979 94.67082C -136.51634 45.3319, -195.78227 13.774951, -265.4076 0.0C -195.78227 -13.774951, -136.51634 -45.3319, -87.60979 -94.67082C -38.703228 -144.00975, -9.499967 -202.4528, 0.0 -270.0C 9.499967 -202.4528, 38.703228 -144.00975, 87.60979 -94.67082C 136.51634 -45.3319, 195.78227 -13.774951, 265.4076 0.0C 195.78227 13.774951, 136.51634 45.3319, 87.60979 94.67082Z" />
+  </shape>
+  <text id="102422623" label="maomao@gmail.com Copy 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="11.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="812.417786,894.505859,0.000000" />
+    </transform>
+    <content>maomao_chan.isekai</content>
+  </text>
+  <text id="102422622" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="8.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="970" align="left">
+    <transform>
+      <location value="813.417847,855.971863,0.000000" />
+      <scale value="1.002062,1.002062" />
+    </transform>
+    <fillColor value="#ff3db2b2" />
+    <content>Guild Card</content>
+  </text>
+  <shape id="102422624" label="Lingkaran 1" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".circle">
+    <transform>
+      <location value="1540.417969,594.255859,0.000000" />
+      <scale value="2.410000,2.410000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="102422626" label="LS20260922212129.png" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287664" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1564.102539,608.380859,0.000000" />
+      <scale value="0.427778,0.427778" />
+      <rotation value="6.585366" />
+    </transform>
+    <property name="size" type="vec2" value="453.500000,540.000000" />
+  </shape>
+</scene>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-09-22 09:45 PM
+5.0.273.1028425 (1028425)
+2d5c0f8 (20 Mei 2026 04.16.19)
+-->
+<scene title="Skills Page" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="2015" fps="60" modifiedTime="1790088313888" amver="1028425" ffver="106" am="com.alightcreative.motion/5.0.273.1028425" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000287415" filename="8f2c50114b4ba71029c30d7244001a08.jpg" title="8f2c50114b4ba71029c30d7244001a08.jpg" type="image/jpeg" size="105576" orientation="0" infoUpdated="1790088306482" width="736" height="1308" />
+  <media uri="content://media/external/images/media/1000287634" type="image/jpeg" duration="0" orientation="0" infoUpdated="1790088306482" width="4096" height="2304" />
+  <media uri="content://media/external/images/media/1000287632" type="image/jpeg" duration="0" orientation="0" infoUpdated="1790088306482" width="4096" height="2305" />
+  <media uri="content://media/external/images/media/1000287629" filename="IMG_20260922_203424.jpg" title="IMG_20260922_203424.jpg" type="image/jpeg" size="787950" orientation="0" infoUpdated="1790088306482" width="4096" height="2304" />
+  <shape id="102422566" label="8f2c50114b4ba71029c30d7244001a08.jpg" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287415" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,577.284790,0.000000" />
+      <scale value="1.902778,1.902778" />
+      <rotation value="90.000000" />
+      <opacity value="0.095703" />
+    </transform>
+    <property name="size" type="vec2" value="303.500000,540.000000" />
+  </shape>
+  <shape id="102422609" label="Bentuk 1 Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill">
+    <transform>
+      <location value="948.077209,466.949402,0.000000" />
+      <scale value="2.124074,2.124074" />
+      <skew value="-1.740096,0.345575" />
+      <opacity value="0.170000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <path d="M 111.517334 270.0L 52.11721 230.39935C 10.670723 237.75856, -23.114159 226.00702, -49.23743 195.14491C -26.377289 189.24448, 0.41517258 196.18088, 31.13995 215.95432L -3.310955 177.50726C -46.480286 177.50726, -75.05476 158.99963, -89.03421 121.98447C -75.05476 115.63332, -51.44616 127.2948, -18.208206 156.96881L -43.411438 112.45784C -87.70774 100.57491, -109.855896 77.32863, -109.855896 42.718895C -95.97471 42.718895, -75.768616 60.023808, -49.23743 94.633545L -68.06495 42.718895C -106.54699 25.459946, -122.49622 -4.5794525, -115.912834 -47.399395C -102.51102 -44.02089, -88.34102 -22.610874, -73.40264 16.830471L -76.04273 -34.413128C -105.88171 -65.62668, -114.31914 -96.550575, -101.35483 -127.18491C -86.95686 -119.053696, -77.63959 -97.447075, -73.40264 -62.365314L -68.06495 -113.19709C -87.20753 -148.48904, -88.986755 -177.76825, -73.40264 -201.03473C -63.43851 -194.83414, -58.45626 -175.12035, -58.45626 -141.89337L -40.181805 -181.97916C -52.3649 -223.52501, -47.038376 -251.82538, -24.20224 -266.88025C -22.139406 -262.85312, -22.139406 -242.60133, -24.20224 -206.12491L -13.491695 -223.09216C -12.266463 -235.96194, -10.036146 -245.17937, -6.801117 -250.74455C -0.007815838 -262.43033, 10.182787 -268.84882, 23.770506 -270.0C 22.664001 -254.26411, 19.436043 -242.60655, 14.086819 -235.02728C 11.073425 -230.75758, 4.1107807 -225.22273, -6.801117 -218.42273L -18.208206 -201.03473C 5.6910763 -219.67319, 23.73608 -225.46921, 35.926804 -218.42273C 28.111855 -199.4081, 5.6611156 -186.14102, -31.425043 -178.62167L -49.23743 -136.0083C -28.551218 -159.20946, -11.795092 -169.25174, 1.0311377 -166.13496C 1.0311377 -146.05049, -18.797935 -127.00468, -58.45626 -108.99736L -64.74879 -62.365314C -48.3708 -93.45335, -32.85721 -108.99736, -18.208206 -108.99736C -18.208206 -85.79509, -34.827183 -60.933613, -68.06495 -34.413128L -64.74879 16.830471C -54.40782 -20.070988, -40.892307 -39.791664, -24.20224 -42.33164C -20.959023 -9.886623, -32.37709 18.463617, -58.45626 42.718895L -40.181805 94.633545C -46.218826 60.023808, -40.892307 34.08942, -24.20224 16.830471C -10.274717 40.549244, -13.315281 72.425, -33.323742 112.45784L -10.052523 151.54608C -16.242327 111.332634, -12.547835 87.93366, 1.0311377 81.34906C 17.629644 98.828064, 19.41148 127.95794, 6.376827 168.73859L 40.41926 209.36032C 26.547935 174.43265, 25.05045 149.39912, 35.926804 134.26015C 56.298706 149.39912, 63.358677 178.52072, 57.107277 221.62473L 115.912834 262.91956L 111.517334 270.0Z" />
+  </shape>
+  <text id="102422555" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1188.172852,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Home</content>
+  </text>
+  <text id="102422554" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1372.835938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>About</content>
+  </text>
+  <text id="102422556" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="132" align="left">
+    <transform>
+      <location value="1562.042969,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Skills</content>
+  </text>
+  <text id="102422557" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="159" align="left">
+    <transform>
+      <location value="1743.585938,73.585938,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Contact</content>
+  </text>
+  <text id="102422561" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="imported?name=Milky Matcha.ttf" wrapWidth="254" align="left">
+    <transform>
+      <location value="238.730347,71.835953,0.000000" />
+      <scale value="0.998148,0.998148" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>MaoMao</content>
+  </text>
+  <text id="102422585" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Lobster&amp;weight=400" wrapWidth="445" align="center">
+    <transform>
+      <location value="944.000000,284.000000,0.000000" />
+      <scale value="0.898876,0.898876" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>My Skills</content>
+  </text>
+  <text id="102422586" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="352" align="center">
+    <transform>
+      <location value="944.000000,189.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff2e8274" />
+    <content>Take a Look at</content>
+  </text>
+  <shape id="102422592" label="Persegi Panjang Bulat 1" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="944.000000,623.449402,0.000000" />
+      <scale value="2.150000,2.150000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <shadow direction="outside">
+      <offset value="9.000000,9.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422598" label="Persegi Panjang Bulat 1 Copy" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="1521.835938,623.449402,0.000000" />
+      <scale value="2.150000,2.150000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <shadow direction="outside">
+      <offset value="9.000000,9.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="102422599" label="Persegi Panjang Bulat 1 Copy 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="367.124023,623.449402,0.000000" />
+      <scale value="2.150000,2.150000" />
+    </transform>
+    <fillColor value="#ff266463" />
+    <shadow direction="outside">
+      <offset value="9.000000,9.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <text id="102422588" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="424" align="left">
+    <transform>
+      <location value="375.507690,466.949402,0.000000" />
+      <scale value="0.849421,0.849421" />
+    </transform>
+    <content>Manajemen Kualitas</content>
+  </text>
+  <text id="102422589" label="Penjelasan 1" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="9.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="377" align="left">
+    <transform>
+      <location value="383.930481,558.125000,0.000000" />
+    </transform>
+    <content>Dapat memanajemen keseluruhan teknis budidaya lele hias.</content>
+  </text>
+  <text id="102422600" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="424" align="left">
+    <transform>
+      <location value="948.077209,466.949402,0.000000" />
+      <scale value="0.849421,0.849421" />
+    </transform>
+    <content>Bisnis &amp; Pemasaran</content>
+  </text>
+  <shape id="102422606" label="IMG_20260922_203424.jpg Copy 2" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287634" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="370.124023,725.001648,0.000000" />
+      <scale value="0.158854,0.158854" />
+    </transform>
+    <path-stroke direction="centered" join="round" end-size="1.500000">
+      <color value="#ffffffff" />
+      <size value="15.000000" />
+    </path-stroke>
+    <shadow direction="outside">
+      <color value="#ffffffff" />
+      <size value="20.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="102422602" label="Penjelasan 2" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="9.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="377" align="left">
+    <transform>
+      <location value="956.500000,558.125000,0.000000" />
+    </transform>
+    <content>Memiliki keahlian tersertifikasi dalam komersial dan pengelolaan bisnis.</content>
+  </text>
+  <shape id="102422605" label="IMG_20260922_203424.jpg Copy" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287632" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="948.077209,723.251648,0.000000" />
+      <scale value="0.158854,0.158854" />
+    </transform>
+    <path-stroke direction="centered" join="round" end-size="1.500000">
+      <color value="#ffffffff" />
+      <size value="15.000000" />
+    </path-stroke>
+    <shadow direction="outside">
+      <color value="#ffffffff" />
+      <size value="20.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="102422601" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="424" align="left">
+    <transform>
+      <location value="1526.000000,466.949402,0.000000" />
+      <scale value="0.849421,0.849421" />
+    </transform>
+    <content>Desain Estetika</content>
+  </text>
+  <text id="102422603" label="Penjelasan 3" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="9.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="377" align="left">
+    <transform>
+      <location value="1534.422729,558.125000,0.000000" />
+    </transform>
+    <content>Menggunakan hias no jutsu, dapat mengubah lele sungai menjadi lele hias.</content>
+  </text>
+  <shape id="102422604" label="IMG_20260922_203424.jpg" startTime="0" endTime="2015" fillType="media" fillImage="content://media/external/images/media/1000287629" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1526.000000,725.001648,0.000000" />
+      <scale value="0.158854,0.158854" />
+    </transform>
+    <path-stroke direction="centered" join="round" end-size="1.500000">
+      <color value="#ffffffff" />
+      <size value="15.000000" />
+    </path-stroke>
+    <shadow direction="outside">
+      <color value="#ffffffff" />
+      <size value="20.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>
