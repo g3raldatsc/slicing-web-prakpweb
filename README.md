@@ -6,6 +6,8 @@ NIM: 252410103052
 
 Perihal: Tugas Slicing Website - Praktikum
 
+Link Website: [maomao-porto.vercel.app](tekan)
+
 # Portofolio Mao Mao my MBG
 
 Website ini adalah portofolio satu halaman untuk my MBG Mao Mao, seorang ahli ternak lele hias yang berfokus pada perawatan, bisnis, dan estetika.
