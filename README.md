@@ -6,7 +6,7 @@ NIM: 252410103052
 
 Perihal: Tugas Slicing Website - Praktikum
 
-Link Website: [maomao-porto.vercel.app](tekan)
+Link Website: https://maomao-porto.vercel.app/
 
 # Portofolio Mao Mao my MBG
 
